@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/travelstory/static/css/main.0fefb408.chunk.css",
+    "main.js": "/travelstory/static/js/main.77cd74bd.chunk.js",
+    "main.js.map": "/travelstory/static/js/main.77cd74bd.chunk.js.map",
+    "runtime-main.js": "/travelstory/static/js/runtime-main.34eab6da.js",
+    "runtime-main.js.map": "/travelstory/static/js/runtime-main.34eab6da.js.map",
+    "static/js/2.1ac90acd.chunk.js": "/travelstory/static/js/2.1ac90acd.chunk.js",
+    "static/js/2.1ac90acd.chunk.js.map": "/travelstory/static/js/2.1ac90acd.chunk.js.map",
+    "index.html": "/travelstory/index.html",
+    "static/css/main.0fefb408.chunk.css.map": "/travelstory/static/css/main.0fefb408.chunk.css.map",
+    "static/js/2.1ac90acd.chunk.js.LICENSE.txt": "/travelstory/static/js/2.1ac90acd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34eab6da.js",
+    "static/js/2.1ac90acd.chunk.js",
+    "static/css/main.0fefb408.chunk.css",
+    "static/js/main.77cd74bd.chunk.js"
+  ]
+}
